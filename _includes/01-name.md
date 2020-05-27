@@ -1,2 +1,2 @@
 # Myth is Just Crystallized History
-Harrison Goldspiel
+## Harrison Goldspiel
