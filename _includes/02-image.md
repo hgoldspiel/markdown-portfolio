@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![salamander](https://calphotos.berkeley.edu/imgs/512x768/0000_0000/1017/2416.jpeg)
